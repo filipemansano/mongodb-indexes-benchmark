@@ -541,6 +541,7 @@ version = "0.1.0"
 dependencies = [
  "bson",
  "mongodb",
+ "rand",
  "tokio",
 ]
 

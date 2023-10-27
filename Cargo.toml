@@ -9,3 +9,4 @@ edition = "2021"
 mongodb = "2.1"
 bson = { version = "2"}
 tokio = "1"
+rand = "0.8.4"
